@@ -1,0 +1,3 @@
+The V00 codes should, presumably, fall under chapter XX V01–Y98	External causes of morbidity and mortality
+
+Currently those codes are associated in the tables with chapter XIX S00–T98	Injury, poisoning and certain other consequences of external causes
